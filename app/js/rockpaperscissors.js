@@ -96,7 +96,7 @@ function playToFive() {
 console.log("Player chose " + playerMove + ". Computer chose " + computerMove + ".");
 console.log();
 console.log("The score is " + playerWins + " to " + computerWins +".");
-
+console.log();
     }
 
     return [playerWins, computerWins];
